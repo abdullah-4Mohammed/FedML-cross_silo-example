@@ -1,0 +1,1 @@
+this is an example "mqtt_s3_fedavg_mnist_lr_example" forked from the repository https://github.com/FedML-AI/FedML which include many examples and bulk to deal with. for simplifying, I made this example as separate repo.
